@@ -1,0 +1,12 @@
+/node_modules
+/vendor
+/public/*
+!/public/.gitkeep
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.yarn/cache
+.yarn/unplugged
+.yarn/install-state.gz
+.pnp.*
